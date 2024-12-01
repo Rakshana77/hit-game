@@ -1,0 +1,1 @@
+.blockcontainer{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;width:320px}.block{width:100px;height:100px;border:1px solid black}.center-container{display:flex;justify-content:center;align-items:center;height:100vh}.green{background-color:green}.blue{background-color:#00f}.red{background-color:red}
